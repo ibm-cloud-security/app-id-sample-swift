@@ -28,9 +28,8 @@ Swif Sample App for the IBM Cloud App ID service.
 * Swift 4.0
 
 ## Configuration
-* [IBM Cloud Mobile services Dependency Management](#bluemix-mobile-services-dependency-management)
 
-### IBM Cloud Mobile services Dependency Management
+### [IBM Cloud Mobile services Dependency Management](#bluemix-mobile-services-dependency-management)
 
 This starter uses the IBM Cloud Mobile services SDKs to use the functionality of the Mobile Analytics and Push Notifications services.
 
