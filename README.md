@@ -6,6 +6,7 @@ Swif Sample App for the IBM Cloud App ID service.
 [![Travis][img-travis-master]][url-travis-master]
 [![Coveralls][img-coveralls-master]][url-coveralls-master]
 [![Codacy][img-codacy]][url-codacy]
+[![License][img-license]][link-to-license]
 
 [![GithubWatch][img-github-watchers]][url-github-watchers]
 [![GithubStars][img-github-stars]][url-github-stars]
@@ -94,6 +95,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 [img-codacy]: https://api.codacy.com/project/badge/Grade/5da7f95c0f2f4658ad14c282e8083dfe
 [url-codacy]: https://www.codacy.com/app/ibm-cloud-security/app-id-sample-swift
+
+[img-license]: https://img.shields.io/npm/l/ibmcloud-appid.svg
+[link-to-license]: #apache-license
 
 [img-github-watchers]: https://img.shields.io/github/watchers/ibm-cloud-security/app-id-sample-swift.svg?style=social&label=Watch
 [url-github-watchers]: https://github.com/ibm-cloud-security/app-id-sample-swift/watchers
