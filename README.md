@@ -1,5 +1,5 @@
 # IBM Cloud App ID
-Swif Sample App for the IBM Cloud App ID service.
+Swift Sample App Template for the IBM Cloud App ID service. The App ID Dashboard overwrites the appIDSample/Info.plist, appIDSample/BMSCredentials.plist, appIDSample/appIDSample.entitlements, and AppDelegate.swift files with the user's information when they download a Swift sample app.
 
 [![IBM Cloud powered][img-ibmcloud-powered]][url-ibmcloud]
 [![Swift Badge][img-swift-badge]][url-swift-badge]
