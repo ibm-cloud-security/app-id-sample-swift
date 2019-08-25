@@ -339,8 +339,7 @@ class AfterLoginViewController: UIViewController {
     }
 
     @IBAction func signOut(_ sender: Any) {
-        BMSClient.sharedInstance.authorizationManager.clearAuthorizationData()
-        TokenStorageManager.sharedInstance.clearStoredTokens()
+        AppID.sharedInstance.logout()
         self.navigationController!.popToRootViewController(animated: false)
     }
 
