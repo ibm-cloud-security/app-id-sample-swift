@@ -91,7 +91,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </stackView>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="clip" translatesAutoresizingMaskIntoConstraints="NO" id="SQH-7I-mbL">
-                                <rect key="frame" x="107" y="236" width="200" height="45"/>
+                                <rect key="frame" x="87.5" y="260.5" width="200" height="45"/>
                                 <color key="backgroundColor" red="0.25490196079999999" green="0.47058823529999999" blue="0.74509803919999995" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="45" id="5if-Fg-PYa"/>
@@ -104,7 +104,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="clip" translatesAutoresizingMaskIntoConstraints="NO" id="oXd-Dc-xTG">
-                                <rect key="frame" x="107" y="362" width="200" height="45"/>
+                                <rect key="frame" x="87.5" y="325.5" width="200" height="45"/>
                                 <color key="backgroundColor" red="0.25490196078431371" green="0.47058823529411764" blue="0.74509803921568629" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="200" id="kX7-4c-vJo"/>
@@ -120,12 +120,12 @@
                         <color key="backgroundColor" red="0.91764705882352937" green="0.93725490196078431" blue="0.95294117647058818" alpha="1" colorSpace="calibratedRGB"/>
                         <constraints>
                             <constraint firstItem="hpe-sl-gRG" firstAttribute="width" secondItem="90I-Ib-Ra0" secondAttribute="width" id="0Ng-cd-Api"/>
-                            <constraint firstItem="oXd-Dc-xTG" firstAttribute="centerX" secondItem="cbf-Ya-g16" secondAttribute="centerX" constant="19.25" id="69m-9P-42W"/>
+                            <constraint firstItem="oXd-Dc-xTG" firstAttribute="centerX" secondItem="cbf-Ya-g16" secondAttribute="centerX" id="69m-9P-42W"/>
                             <constraint firstAttribute="trailingMargin" secondItem="Fdz-V9-p0x" secondAttribute="trailing" constant="40" id="BcI-hf-51x"/>
-                            <constraint firstItem="SQH-7I-mbL" firstAttribute="top" secondItem="Fdz-V9-p0x" secondAttribute="bottom" constant="5.5" id="HAa-tC-oUD"/>
+                            <constraint firstItem="SQH-7I-mbL" firstAttribute="top" secondItem="Fdz-V9-p0x" secondAttribute="bottom" constant="30" id="HAa-tC-oUD"/>
                             <constraint firstItem="cbf-Ya-g16" firstAttribute="top" secondItem="yfr-Vs-mEe" secondAttribute="bottom" constant="48" id="W58-NC-Qfg"/>
-                            <constraint firstItem="oXd-Dc-xTG" firstAttribute="top" secondItem="SQH-7I-mbL" secondAttribute="bottom" constant="81" id="Xlf-w4-KIU"/>
-                            <constraint firstItem="SQH-7I-mbL" firstAttribute="centerX" secondItem="cbf-Ya-g16" secondAttribute="centerX" constant="19.25" id="Xvs-8b-vBL"/>
+                            <constraint firstItem="oXd-Dc-xTG" firstAttribute="top" secondItem="SQH-7I-mbL" secondAttribute="bottom" constant="20" id="Xlf-w4-KIU"/>
+                            <constraint firstItem="SQH-7I-mbL" firstAttribute="centerX" secondItem="cbf-Ya-g16" secondAttribute="centerX" id="Xvs-8b-vBL"/>
                             <constraint firstItem="cbf-Ya-g16" firstAttribute="centerX" secondItem="90I-Ib-Ra0" secondAttribute="centerX" id="aYw-KJ-Y2K"/>
                             <constraint firstItem="hpe-sl-gRG" firstAttribute="centerX" secondItem="90I-Ib-Ra0" secondAttribute="centerX" id="cpa-uY-wGK"/>
                             <constraint firstItem="TnF-rp-XFG" firstAttribute="top" secondItem="hpe-sl-gRG" secondAttribute="bottom" id="dIH-gp-0qz"/>
